@@ -1,0 +1,12 @@
+{
+  "as_of_utc": "PLACEHOLDER",
+  "note": "Run the GitHub Action to populate real data.",
+  "CanaryEW": {"1D": null, "3M": null, "YTD": null, "12M": null},
+  "CanaryMC": {"1D": null, "3M": null, "YTD": null, "12M": null},
+  "leaders_laggards": null,
+  "canary_members": [
+    "OLLI","HBI","MAS","BLDR","BLD","OC","FIVE","KBH","URBN","TGT",
+    "BBY","DDS","LEN","WSM","MTH","FND","ANF","EBAY","LOW","DHI",
+    "BBW","AEO","PHM","DKS","M","BBWI"
+  ]
+}
