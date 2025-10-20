@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2025-10-16T00:00:00Z",
+  "as_of_utc": "2025-10-17T00:00:00Z",
   "canary_members": [
     "OLLI",
     "HBI",
@@ -29,88 +29,88 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": -0.010342120984552006,
-    "3M": 0.11736655816821773,
-    "YTD": 0.03488650720355557,
-    "12M": -0.02686590214839657
+    "1D": 0.004796052155324526,
+    "3M": 0.10616446790440848,
+    "YTD": 0.040218766504490855,
+    "12M": -0.0113323454578933
   },
   "CanaryMC": {
-    "1D": -0.0037750821018829317,
-    "3M": 0.11257568597409928,
-    "YTD": 0.046400431367552564,
-    "12M": -0.08894903084407257
+    "1D": 0.00679253807470892,
+    "3M": 0.10925028804849468,
+    "YTD": 0.055384137482090035,
+    "12M": -0.0656225148436056
   },
   "leaders_laggards": {
     "1D": {
       "best": {
-        "ticker": "BBWI",
-        "return": 0.008139573567104375
+        "ticker": "LEN",
+        "return": 0.0240090899511618
       },
       "worst": {
-        "ticker": "BBW",
-        "return": -0.060321689941561285
+        "ticker": "ANF",
+        "return": -0.008542005798428232
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.0017764994471540696
+        "contribution": 0.0017754659870532542
       },
       "bottom_contributor_mc": {
-        "ticker": "DHI",
-        "contribution": -0.001363643351885408
+        "ticker": "WSM",
+        "contribution": -0.0003677955108969492
       }
     },
     "3M": {
       "best": {
         "ticker": "HBI",
-        "return": 0.5542985898134638
+        "return": 0.5109649019613378
       },
       "worst": {
         "ticker": "ANF",
-        "return": -0.2293015222267616
+        "return": -0.2672016522925984
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.035067939203564366
+        "contribution": 0.03384225877576672
       },
       "bottom_contributor_mc": {
         "ticker": "TGT",
-        "contribution": -0.008349446318537906
+        "contribution": -0.009420649208256514
       }
     },
     "YTD": {
       "best": {
         "ticker": "FIVE",
-        "return": 0.533710172643924
+        "return": 0.5567218676092167
       },
       "worst": {
         "ticker": "ANF",
-        "return": -0.5492691384828658
+        "return": -0.5531192841154757
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.04195241921709557
+        "contribution": 0.04469762370634928
       },
       "bottom_contributor_mc": {
         "ticker": "TGT",
-        "contribution": -0.026554373199642975
+        "contribution": -0.02619696367266199
       }
     },
     "12M": {
       "best": {
         "ticker": "URBN",
-        "return": 0.7745803527939481
+        "return": 0.7808838376990592
       },
       "worst": {
         "ticker": "ANF",
-        "return": -0.5782757344631557
+        "return": -0.5737316778171867
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.03348862350299881
+        "contribution": 0.03885701360650513
       },
       "bottom_contributor_mc": {
-        "ticker": "LOW",
-        "contribution": -0.034874858733083706
+        "ticker": "TGT",
+        "contribution": -0.03260119435166351
       }
     }
   }
