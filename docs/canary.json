@@ -29,16 +29,16 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": -0.013618297242849797,
-    "3M": 0.024111974047276385,
-    "YTD": 0.010787953649584292,
-    "12M": 0.02519872022285452
+    "1D": -0.013457452772297707,
+    "3M": 0.023827189714080044,
+    "YTD": 0.010660542942652285,
+    "12M": 0.024901098430312185
   },
   "CanaryMC": {
-    "1D": -0.0119829859409335,
-    "3M": -0.0023211220149534917,
-    "YTD": 0.014919185132554968,
-    "12M": -0.02847515970077108
+    "1D": -0.01187008265201639,
+    "3M": -0.0016258480013586762,
+    "YTD": 0.014660711963500273,
+    "12M": -0.027073837566882197
   },
   "leaders_laggards": {
     "1D": {
@@ -52,11 +52,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.001431257429966089
+        "contribution": 0.0014206970323679547
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.0028912944043432373
+        "contribution": -0.002852195622352224
       }
     },
     "3M": {
@@ -70,11 +70,11 @@
       },
       "top_contributor_mc": {
         "ticker": "BBY",
-        "contribution": 0.008539333885339236
+        "contribution": 0.008709024921633913
       },
       "bottom_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": -0.00843834951096714
+        "contribution": -0.00837608794708485
       }
     },
     "YTD": {
@@ -88,11 +88,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.02748260459610611
+        "contribution": 0.027279826797024873
       },
       "bottom_contributor_mc": {
         "ticker": "TGT",
-        "contribution": -0.026566500531339556
+        "contribution": -0.027167749418148174
       }
     },
     "12M": {
@@ -106,11 +106,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.03158045784467266
+        "contribution": 0.03134744442291612
       },
       "bottom_contributor_mc": {
         "ticker": "TGT",
-        "contribution": -0.031164205201460703
+        "contribution": -0.03186950862159124
       }
     }
   }
