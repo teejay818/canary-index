@@ -28,16 +28,16 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": 0.018820887344836335,
-    "3M": 0.16298106373110355,
-    "YTD": 0.0822376684392947,
-    "12M": 0.17623841858739042
+    "1D": 0.01870495556343288,
+    "3M": 0.16197714253601925,
+    "YTD": 0.08173110574509601,
+    "12M": 0.17515282947345878
   },
   "CanaryMC": {
-    "1D": 0.017134371278135996,
-    "3M": 0.17794026219088832,
-    "YTD": 0.13337915146825474,
-    "12M": 0.16146781539246602
+    "1D": 0.017044175430515507,
+    "3M": 0.17699153158497094,
+    "YTD": 0.13250533097975525,
+    "12M": 0.1605339360692104
   },
   "leaders_laggards": {
     "1D": {
@@ -51,11 +51,11 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.0026404077565300413
+        "contribution": 0.0026802477721693764
       },
       "bottom_contributor_mc": {
         "ticker": "BLDR",
-        "contribution": -0.0011322731505717793
+        "contribution": -0.0011406697845166229
       }
     },
     "3M": {
@@ -69,11 +69,11 @@
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.07341782380631567
+        "contribution": 0.07242205199775677
       },
       "bottom_contributor_mc": {
         "ticker": "BBY",
-        "contribution": -0.003180279741215586
+        "contribution": -0.003221278776302253
       }
     },
     "YTD": {
@@ -87,11 +87,11 @@
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.0502799781811945
+        "contribution": 0.049598026820992465
       },
       "bottom_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": -0.0037289557032373763
+        "contribution": -0.003648978928604082
       }
     },
     "12M": {
@@ -105,11 +105,11 @@
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.04764013663419087
+        "contribution": 0.04699396870796038
       },
       "bottom_contributor_mc": {
         "ticker": "BLDR",
-        "contribution": -0.0057896858130753
+        "contribution": -0.005832620569943375
       }
     }
   }
