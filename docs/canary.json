@@ -28,16 +28,16 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": -0.02498275715017151,
-    "3M": -0.07779418472637234,
-    "YTD": -0.0677824216247882,
-    "12M": 0.17937867838052535
+    "1D": -0.024982757904168373,
+    "3M": -0.07779418707425423,
+    "YTD": -0.06778242983634875,
+    "12M": 0.17937868006182145
   },
   "CanaryMC": {
-    "1D": -0.01935818574464343,
-    "3M": -0.01926089597591507,
-    "YTD": 0.030636098731347094,
-    "12M": 0.19671080101039917
+    "1D": -0.019425250093387136,
+    "3M": -0.019193798648860838,
+    "YTD": 0.030498281215940448,
+    "12M": 0.19658959033629408
   },
   "leaders_laggards": {
     "1D": {
@@ -51,11 +51,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.0032843145045858904
+        "contribution": 0.0032261223796764427
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.007670016565608098
+        "contribution": -0.007727886262587769
       }
     },
     "3M": {
@@ -69,11 +69,11 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.03073036792421662
+        "contribution": 0.030721444581324593
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.03245534220873427
+        "contribution": -0.032700215319884075
       }
     },
     "YTD": {
@@ -87,11 +87,11 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.034225126862674024
+        "contribution": 0.03421518872775576
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.012277650774376415
+        "contribution": -0.012370284724232695
       }
     },
     "12M": {
@@ -101,15 +101,15 @@
       },
       "worst": {
         "ticker": "BBWI",
-        "return": -0.3840167251699784
+        "return": -0.3840167646525501
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.054414524594874114
+        "contribution": 0.05345039743601288
       },
       "bottom_contributor_mc": {
         "ticker": "LEN",
-        "contribution": -0.007231452626666591
+        "contribution": -0.007252302605760796
       }
     }
   }
