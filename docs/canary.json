@@ -28,16 +28,16 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": 0.004846921088560441,
-    "3M": 0.12302434383746208,
-    "YTD": 0.016000953092916603,
-    "12M": 0.12737044834900468
+    "1D": 0.004663747970832022,
+    "3M": 0.12311302257927192,
+    "YTD": 0.015843427521416542,
+    "12M": 0.12746912377747233
   },
   "CanaryMC": {
-    "1D": 0.014615422865649874,
-    "3M": 0.12420453927319497,
-    "YTD": 0.10247479591476472,
-    "12M": 0.18068280279736781
+    "1D": 0.01462889672337897,
+    "3M": 0.12431904256898152,
+    "YTD": 0.10256925549668527,
+    "12M": 0.1808493896735689
   },
   "leaders_laggards": {
     "1D": {
@@ -51,11 +51,11 @@
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.0063591933436855045
+        "contribution": 0.006359193344116821
       },
       "bottom_contributor_mc": {
         "ticker": "AEO",
-        "contribution": -0.0002625218560322009
+        "contribution": -0.0002625218560500067
       }
     },
     "3M": {
@@ -69,11 +69,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.022570834864721542
+        "contribution": 0.02257083486625243
       },
       "bottom_contributor_mc": {
         "ticker": "FIVE",
-        "contribution": -0.004499783314373867
+        "contribution": -0.004499783314679068
       }
     },
     "YTD": {
@@ -87,11 +87,11 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.0376425890987123
+        "contribution": 0.03764258910126543
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.017692400808050037
+        "contribution": -0.017692400809250036
       }
     },
     "12M": {
@@ -105,11 +105,11 @@
       },
       "top_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": 0.0540745296720109
+        "contribution": 0.05407452967567855
       },
       "bottom_contributor_mc": {
         "ticker": "LEN",
-        "contribution": -0.009304964241029516
+        "contribution": -0.009304964241660633
       }
     }
   }
