@@ -28,16 +28,16 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": 0.020725138470929272,
-    "3M": 0.07371472729848039,
-    "YTD": 0.013778814951005192,
-    "12M": 0.14851204530928142
+    "1D": 0.020725138609017035,
+    "3M": 0.07371472778962773,
+    "YTD": 0.013778803737988676,
+    "12M": 0.1485120442694724
   },
   "CanaryMC": {
-    "1D": 0.02034721498503478,
-    "3M": 0.05705291008292401,
-    "YTD": 0.09095215969018766,
-    "12M": 0.19409179176750502
+    "1D": 0.020237433810738503,
+    "3M": 0.05834892220997623,
+    "YTD": 0.09374947154549074,
+    "12M": 0.19729693540034365
   },
   "leaders_laggards": {
     "1D": {
@@ -51,11 +51,11 @@
       },
       "top_contributor_mc": {
         "ticker": "LOW",
-        "contribution": 0.0075608454700637475
+        "contribution": 0.007419698793095329
       },
       "bottom_contributor_mc": {
         "ticker": "EBAY",
-        "contribution": -0.0016248167166777287
+        "contribution": -0.0016683634069714801
       }
     },
     "3M": {
@@ -69,17 +69,17 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.018216610437998937
+        "contribution": 0.018432336329973664
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.02537408621764522
+        "contribution": -0.024900400045257336
       }
     },
     "YTD": {
       "best": {
         "ticker": "TGT",
-        "return": 0.42248711003063
+        "return": 0.42248699992546057
       },
       "worst": {
         "ticker": "BBW",
@@ -87,17 +87,17 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.05410850052627353
+        "contribution": 0.05474925335232278
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.028366605412219113
+        "contribution": -0.027837054569438125
       }
     },
     "12M": {
       "best": {
         "ticker": "M",
-        "return": 1.0775287288483169
+        "return": 1.077528899502477
       },
       "worst": {
         "ticker": "OLLI",
@@ -105,11 +105,11 @@
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.05687820280313619
+        "contribution": 0.05755176944032085
       },
       "bottom_contributor_mc": {
         "ticker": "LEN",
-        "contribution": -0.008143686258662247
+        "contribution": -0.008035700377260023
       }
     }
   }
