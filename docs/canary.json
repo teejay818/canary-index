@@ -1,9 +1,10 @@
 {
-  "as_of_utc": "2026-08-24T00:00:00Z",
+  "as_of_utc": "2026-08-26T00:00:00Z",
   "canary_members": [
     "OLLI",
     "MAS",
     "BLDR",
+    "BLD",
     "OC",
     "FIVE",
     "KBH",
@@ -27,88 +28,88 @@
     "BBWI"
   ],
   "CanaryEW": {
-    "1D": 0.013847216351498881,
-    "3M": 0.11182878315810263,
-    "YTD": 0.03823325996007876,
-    "12M": 0.03915940006131402
+    "1D": 0.025580718780111367,
+    "3M": 0.11021769581223229,
+    "YTD": 0.036785942657560966,
+    "12M": 0.04436584620491413
   },
   "CanaryMC": {
-    "1D": 0.015142878655529657,
-    "3M": 0.11882245691527049,
-    "YTD": 0.14602115130018745,
-    "12M": 0.1050718489375877
+    "1D": 0.002050640263200787,
+    "3M": 0.0973839000182426,
+    "YTD": 0.12297148162773541,
+    "12M": 0.09378928185979651
   },
   "leaders_laggards": {
     "1D": {
       "best": {
-        "ticker": "FIVE",
-        "return": 0.04987210459392344
+        "ticker": "ANF",
+        "return": 0.35674929228434227
       },
       "worst": {
-        "ticker": "DKS",
-        "return": -0.021284691302856484
+        "ticker": "LOW",
+        "return": -0.01975771375849278
       },
       "top_contributor_mc": {
-        "ticker": "TGT",
-        "contribution": 0.004099126775695787
+        "ticker": "ANF",
+        "contribution": 0.004710495260245984
       },
       "bottom_contributor_mc": {
-        "ticker": "DKS",
-        "contribution": -0.00048607605478659827
+        "ticker": "LOW",
+        "contribution": -0.004689706324006247
       }
     },
     "3M": {
       "best": {
         "ticker": "ANF",
-        "return": 0.5025408189958256
+        "return": 0.9757956995434607
       },
       "worst": {
         "ticker": "DKS",
-        "return": -0.22645491745282242
+        "return": -0.440707872571353
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.055602541136865344
+        "contribution": 0.04763280318972995
       },
       "bottom_contributor_mc": {
-        "ticker": "EBAY",
-        "contribution": -0.0066609959600910556
+        "ticker": "DKS",
+        "contribution": -0.010286677335723951
       }
     },
     "YTD": {
       "best": {
         "ticker": "TGT",
-        "return": 0.7368321092812142
+        "return": 0.6770258906893027
       },
       "worst": {
         "ticker": "BBW",
-        "return": -0.3545112056308438
+        "return": -0.3506917528059609
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.11228990331534083
+        "contribution": 0.1014557311232051
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.026559366284999875
+        "contribution": -0.03197509439562084
       }
     },
     "12M": {
       "best": {
         "ticker": "FIVE",
-        "return": 0.8700262719648517
+        "return": 0.8125793340448657
       },
       "worst": {
         "ticker": "BLDR",
-        "return": -0.5051793431850062
+        "return": -0.5186794767626726
       },
       "top_contributor_mc": {
         "ticker": "TGT",
-        "contribution": 0.12495309615932644
+        "contribution": 0.11627378321743331
       },
       "bottom_contributor_mc": {
         "ticker": "LOW",
-        "contribution": -0.03573179403503706
+        "contribution": -0.04010540906627728
       }
     }
   }
